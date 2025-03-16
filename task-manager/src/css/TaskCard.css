@@ -1,0 +1,33 @@
+
+.task-container{
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    width: 300px;
+    height: 30px;
+    background-color:goldenrod;
+    color:brown;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    cursor: grab;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+.remove-btn{
+    background-color: bisque;
+    color:brown;
+    opacity: 0.7;
+    position:relative;
+    left:5em;
+    
+}
+.remove-btn:hover{
+    opacity: 1;
+}
+
+.task-container:active{
+    opacity: 0.7;
+    border:1px solid #111;
+}

@@ -1,0 +1,20 @@
+.drop-area{
+        border-style: solid;
+        width: 350px;
+        height: 40px;
+        color: rgb(246, 217, 181);
+        background-color:aliceblue;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+        align-items: center;
+        font-family: 'Courier New', Courier, monospace;
+        box-sizing: border-box;
+        transition: all 0.5s ease-in-out;
+        opacity: 1;
+}
+.hide-drop{
+    opacity: 0;
+    height: 0;
+}
