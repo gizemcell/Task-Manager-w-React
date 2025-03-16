@@ -1,0 +1,6 @@
+node_modules/
+dist/assets/*.map
+dist/assets/*.json
+dist/assets/*.txt
+dist/assets/**/*.log
+dist/assets/**/*.md
