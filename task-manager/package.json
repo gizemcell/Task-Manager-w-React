@@ -1,7 +1,7 @@
 {
   "name": "task-manager",
   "private": true,
-  "homepage": "https://gizemcell.github.io/Task-Manager-w-React",
+  "homepage": "https://gizemcell.github.io/task-manager-w-React",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
